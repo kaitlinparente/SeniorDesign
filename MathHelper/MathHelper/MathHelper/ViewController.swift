@@ -36,8 +36,8 @@ class ViewController: UIViewController {
     }
 
     func customizeNavBar() {
-        navigationController?.navigationBar.barTintColor = UIColor(displayP3Red: 255/255, green: 255/255, blue: 0/255, alpha: 1)
-        navigationController?.navigationBar.barTintColor = UIColor(displayP3Red: 247/255, green: 137/255, blue: 27/255, alpha: 1)
+        navigationController?.navigationBar.barTintColor = UIColor(displayP3Red: 131/255, green: 195/255, blue: 250/255, alpha: 1)
+        navigationController?.navigationBar.barTintColor = UIColor(displayP3Red: 131/255, green: 195/255, blue: 250/255, alpha: 1)
         navigationController?.navigationBar.titleTextAttributes = [NSAttributedStringKey.foregroundColor: UIColor.white]
     }
 
