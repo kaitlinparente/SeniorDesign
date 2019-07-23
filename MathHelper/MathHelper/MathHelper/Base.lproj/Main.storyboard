@@ -50,7 +50,7 @@
                                                     <nil key="highlightedColor"/>
                                                 </label>
                                             </subviews>
-                                            <color key="backgroundColor" red="0.51372549020000002" green="0.76470588240000004" blue="0.98039215690000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                            <color key="backgroundColor" red="0.23137254901960785" green="0.62352941176470589" blue="0.96862745098039216" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                             <constraints>
                                                 <constraint firstItem="jEc-hC-K2s" firstAttribute="bottom" secondItem="rYm-WK-57O" secondAttribute="bottomMargin" id="91Y-yo-M99"/>
                                                 <constraint firstItem="jEc-hC-K2s" firstAttribute="leading" secondItem="rYm-WK-57O" secondAttribute="leadingMargin" id="TA3-uK-E59"/>
@@ -77,7 +77,7 @@
                                                     <nil key="highlightedColor"/>
                                                 </label>
                                             </subviews>
-                                            <color key="backgroundColor" red="0.51372549020000002" green="0.76470588240000004" blue="0.98039215690000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                            <color key="backgroundColor" red="0.23137254900000001" green="0.62352941179999999" blue="0.96862745100000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                             <color key="tintColor" red="0.69559999440939002" green="0.89972745748654015" blue="0.98039215686274506" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                             <constraints>
                                                 <constraint firstItem="Rv6-It-nvC" firstAttribute="leading" secondItem="tfQ-vM-Tqt" secondAttribute="leadingMargin" id="7ze-Q7-2WX"/>
@@ -105,7 +105,7 @@
                                                     <nil key="highlightedColor"/>
                                                 </label>
                                             </subviews>
-                                            <color key="backgroundColor" red="0.51372549020000002" green="0.76470588240000004" blue="0.98039215690000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                            <color key="backgroundColor" red="0.23137254900000001" green="0.62352941179999999" blue="0.96862745100000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                             <constraints>
                                                 <constraint firstItem="zwX-DE-HVR" firstAttribute="leading" secondItem="qn7-2k-6y3" secondAttribute="leadingMargin" id="QRZ-1W-4M0"/>
                                                 <constraint firstAttribute="bottomMargin" secondItem="zwX-DE-HVR" secondAttribute="bottom" constant="1" id="TUW-kl-cDJ"/>
@@ -133,7 +133,7 @@
                                                     <nil key="highlightedColor"/>
                                                 </label>
                                             </subviews>
-                                            <color key="backgroundColor" red="0.51372549020000002" green="0.76470588240000004" blue="0.98039215690000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                            <color key="backgroundColor" red="0.23137254900000001" green="0.62352941179999999" blue="0.96862745100000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                             <constraints>
                                                 <constraint firstItem="pzY-2v-MnW" firstAttribute="leading" secondItem="sXw-Fm-l9d" secondAttribute="leadingMargin" id="cXi-ND-60V"/>
                                                 <constraint firstItem="pzY-2v-MnW" firstAttribute="bottom" secondItem="sXw-Fm-l9d" secondAttribute="bottomMargin" id="ouC-ZI-KQ5"/>
@@ -154,7 +154,7 @@
                                                     <nil key="highlightedColor"/>
                                                 </label>
                                             </subviews>
-                                            <color key="backgroundColor" red="0.51372549020000002" green="0.76470588240000004" blue="0.98039215690000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                            <color key="backgroundColor" red="0.23137254900000001" green="0.62352941179999999" blue="0.96862745100000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                             <constraints>
                                                 <constraint firstItem="Zjg-eO-0Fc" firstAttribute="bottom" secondItem="M6I-8D-hrN" secondAttribute="bottomMargin" id="Fx3-tE-NIh"/>
                                                 <constraint firstItem="Zjg-eO-0Fc" firstAttribute="leading" secondItem="M6I-8D-hrN" secondAttribute="leadingMargin" id="ZWQ-iE-8sM"/>
